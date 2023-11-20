@@ -1,1 +1,1 @@
-https://codeiq.vex.com/
+[VEXCode IQ](https://codeiq.vex.com/)
