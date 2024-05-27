@@ -1,1 +1,1 @@
-https://youtu.be/gBAw3aKuxFI?si=_koFvgYdsxT8BffY
+[Pairing controller to Brain](https://youtu.be/gBAw3aKuxFI?si=_koFvgYdsxT8BffY)
