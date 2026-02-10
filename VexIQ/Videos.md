@@ -4,5 +4,6 @@
 [Device setup, motors](https://youtu.be/TbaOMMKLGG4?si=fIzlkih8RRbeLtSl)<br>
 [Controller setup, motors](https://youtu.be/eJZ8vEHqLNo?si=Zp9vkzIYsjq_2j_e)<br>
 [Distance_Sensor_Test](https://www.youtube.com/watch?v=nF0kPc77mxo)<br>
+[Color_Sensor_Test](https://www.youtube.com/watch?v=X4NEh1X-AVQ)<br>
 [Moving forward/backward based on Event](https://www.youtube.com/watch?v=i2SLhBKrCD4)<br>
 [Grouping motors](https://www.youtube.com/watch?v=nZlfjLDn8LQ)<br>
